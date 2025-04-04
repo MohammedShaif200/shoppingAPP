@@ -6,7 +6,7 @@ Welcome to this comprehensive SwiftUI tutorial where we'll build an advanced Onl
 
 ⚙️ Technologies used: SwiftUI, MVVM architecture, Native iOS Development
 
-🚀 Key Features of the Online Groceries Shop App:
+🚀 Key Features of the Online   Shop App:
 
 SwiftUI UI Framework: Leverage the power of SwiftUI for building beautiful UI.
 MVVM Architecture: Implement a scalable and maintainable code structure.
