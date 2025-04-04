@@ -10,6 +10,6 @@ Welcome to this comprehensive SwiftUI tutorial where we'll build an advanced Onl
 
 SwiftUI UI Framework: Leverage the power of SwiftUI for building beautiful UI.
 MVVM Architecture: Implement a scalable and maintainable code structure.
-Browse and Search Groceries: Explore a wide range of grocery products and search for specific items.
+Browse and Search Groceries: Explore a wide range of   products and search for specific items.
 Add to Cart & Checkout: Easily add items to the cart and complete the checkout process.
 Native iOS Development: Develop the app natively for the best user experience on iOS devices.
